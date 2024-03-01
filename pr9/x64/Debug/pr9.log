@@ -1,0 +1,3 @@
+﻿  pr9.cpp
+E:\2semestr_3kurs\pr9\pr9.cpp(17,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr9.vcxproj -> E:\2semestr_3kurs\pr9\x64\Debug\pr9.exe
